@@ -1,0 +1,9 @@
+{
+    "env" : {
+        "MONG_ATLAS_PW" : "1212momo",
+        "jwt_key"       : "MyFamilyYounis"
+
+       
+       
+    }
+}
